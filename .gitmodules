@@ -1,0 +1,6 @@
+[submodule "admin-panel"]
+	path = admin-panel
+	url = https://github.com/sparsh02/Admin-Panel-Weather-Bot.git
+[submodule "nest-backend"]
+	path = nest-backend
+	url = https://github.com/sparsh02/Nest-Telegram-Weather-Bot.git
